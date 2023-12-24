@@ -1,2 +1,2 @@
-print ("Hello Linux!")
+print ("Hello Linux_2.0!")
 
